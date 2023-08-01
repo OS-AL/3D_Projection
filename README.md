@@ -6,13 +6,12 @@ It can load .obj models (albeit limited) and render it on screen, It cannot use 
 ## Preview of what it can do
 The framerate isn't great in the map video but, It has been optimized quite a bit and it now runs at ~20 fps
 
-![mapwireframe](https://github.com/OS-AL/3D_Projection/assets/141171129/d1278580-aa57-4488-9411-c5c371dc172f)
-![carwireframe](https://github.com/OS-AL/3D_Projection/assets/141171129/2b9f5ae9-4127-4f0a-a47a-02dd6614ab82)
+![mapwireframe](https://github.com/OS-AL/3D_Projection/assets/141171129/7658a728-239f-4150-97bd-971f18a3127d)
+![carwireframe](https://github.com/OS-AL/3D_Projection/assets/141171129/332fb035-8cc1-418f-8744-79e95913705f)
 
 
-https://github.com/OS-AL/3D_Projection/assets/141171129/b1cd2ae8-8784-4932-bced-497df616c8a3
+https://github.com/OS-AL/3D_Projection/assets/141171129/6199324f-13a3-4663-b6ee-0fe13d10ff53
 
 
-
-https://github.com/OS-AL/3D_Projection/assets/141171129/3055a54e-49eb-4574-8e3d-5979b5544941
+https://github.com/OS-AL/3D_Projection/assets/141171129/12da5823-5116-4c43-9189-7f7978219356
 
