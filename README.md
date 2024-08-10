@@ -12,6 +12,3 @@ The framerate isn't great in the map video but, It has been optimized quite a bi
 
 https://github.com/OS-AL/3D_Projection/assets/141171129/6199324f-13a3-4663-b6ee-0fe13d10ff53
 
-
-https://github.com/OS-AL/3D_Projection/assets/141171129/12da5823-5116-4c43-9189-7f7978219356
-
